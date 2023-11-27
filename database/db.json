@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ryandefryan",
+      "email": "ryan@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "id": 2,
+      "username": "immanueljanis",
+      "email": "immanuelj4nis@gmail.com",
+      "password": "bca123"
+    },
+    {
+      "id": 3,
+      "username": "immanueljoshuajanis",
+      "email": "immanueljoshuajanis@gmail.com",
+      "password": "testing123"
+    },
+    {
+      "id": 4,
+      "username": "management",
+      "email": "ryandefryan@gmail.com",
+      "password": "management"
+    },
+    {
+      "id": 5,
+      "username": "alexanderjanis",
+      "email": "alexanderjanis@gmail.com",
+      "password": "alex1234"
+    },
+    {
+      "id": 6,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": 7,
+      "username": "finance",
+      "email": "finance@gmail.com",
+      "password": "finance"
+    },
+    {
+      "id": 8,
+      "username": "operasional",
+      "email": "operasional@gmail.com",
+      "password": "operasional0101"
+    },
+    {
+      "id": 9,
+      "username": "admin01",
+      "email": "admin01@gmail.com",
+      "password": "admin0101"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Overture Polo Shirt Black",
+      "price": 249000,
+      "category": "shirt",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "Cotton 16's (100% Cotton)",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/576e4f06-34a5-4798-88a3-e8febe2aa9fe.jpg", "https://spaces.ilfen.co/assets/image/produk/3893cb95-1424-479b-95c4-e4c5165f7a4d.jpg"]
+    },
+    {
+      "id": 2,
+      "name": "Overture Polo Shirt Choco",
+      "price": 249000,
+      "category": "shirt",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "Cotton 16's (100% Cotton)",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/dacbac76-46e9-4636-8bf8-2fecb7e1ecda.jpg", "https://spaces.ilfen.co/assets/image/produk/1781ae17-cb70-4c78-aa5c-9811860a1506.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Overture Polo Shirt Navy",
+      "price": 249000,
+      "category": "shirt",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "Cotton 16's (100% Cotton)",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/a7f5bafd-6584-44cb-a0ed-ad1843d234ad.jpg", "https://spaces.ilfen.co/assets/image/produk/1ca6f2d8-474a-48fd-bf69-2980c3548abb.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Overture Polo Shirt Charcoal",
+      "price": 249000,
+      "category": "shirt",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "Cotton 16's (100% Cotton)",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/2f2213aa-9907-4a1c-802f-66f780d0c1b0.jpg", "https://spaces.ilfen.co/assets/image/produk/182cafc6-0e55-4088-b0f8-76a96f7eab75.jpg"]
+    },
+    {
+      "id": 5,
+      "name": "Polo Stripe Sense 3 Stripe Navy Brown",
+      "price": 349000,
+      "category": "polo-shirt",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "Fine Gauge (100% Cotton )",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/7d53b89e-2a35-4e52-bad9-a0e74e6cbba4.jpeg", "https://spaces.ilfen.co/assets/image/produk/4b1a09be-3415-413a-9910-31cce8a3ba38.jpeg"]
+    },
+    {
+      "id": 6,
+      "name": "Polo Stripe Sense 3 Stripe Brown White",
+      "price": 349000,
+      "category": "polo-shirt",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "Fine Gauge (100% Cotton )",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/4314f3fb-d113-41a2-a862-e74b38eef388.jpeg", "https://spaces.ilfen.co/assets/image/produk/3625b997-abaa-45f1-bc51-7d26368019c8.jpeg"]
+    },
+    {
+      "id": 7,
+      "name": "Basic Long Sleeve Cooltys Navy",
+      "price": 129000,
+      "category": "sleeve",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "Katun 97%, Spandex 3%",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/55D59DFB-1291-4580-B8D1-2E811F78FB7C.jpeg", "https://spaces.ilfen.co/assets/image/produk/E18817E3-18BE-40D8-BBA8-D48C15F55278.jpeg"]
+    },
+    {
+      "id": 8,
+      "name": "Gaozhan Jacket Light Brown",
+      "price": 289000,
+      "category": "jacket",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "100% Cotton",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/L_BROWN_61.jpg", "https://spaces.ilfen.co/assets/image/produk/L_BROWN_11.jpg"]
+    },
+    {
+      "id": 9,
+      "name": "Akhfa Chinos Ankel Pants Black",
+      "price": 229000,
+      "category": "pants",
+      "size": ["28", "29", "30", "31", "34"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "100% Cotton",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/black_37.jpeg", "https://spaces.ilfen.co/assets/image/produk/black_25.jpeg"]
+    },
+    {
+      "id": 10,
+      "name": "Eyhsan Double Pocket Shirt Black",
+      "price": 189000,
+      "category": "shirt",
+      "size": ["s", "m", "l", "xl", "xxl"],
+      "stock": ["5", "10", "15", "20", "25"],
+      "material" : "100% Cotton",
+      "image": ["https://spaces.ilfen.co/assets/image/produk/cover_12.jpeg", "https://spaces.ilfen.co/assets/image/produk/BLACK_220.jpeg"]
+    }
+  ]
+}
